@@ -25,6 +25,6 @@
 <table>
 <tr>
 <td>You are visitor no.</td>
-<td><img src="https://profile-counter.glitch.me/skp0111/count.svg" alt="visitor count" height="30" /></td>>
+<td><img src="https://profile-counter.glitch.me/ashishkashyap-007/count.svg" alt="visitor count" height="30" /></td>>
 </tr>
 </table>
