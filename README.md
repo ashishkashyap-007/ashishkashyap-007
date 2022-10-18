@@ -1,8 +1,8 @@
 <h1 align="center"> Hello, I am <a href="https://www.linkedin.com/in/ashish-kashyap-184291200/">Ashish Kashyap </a></h1>
 
-🔭 I’m currently working on a Full Stack Instagram Clone
+🔭 I’m currently working on Fake News Detection Minor Project and finished working on Gesture Data Analyzer (a SmartWatch AI Application) as an Intern at Samsung.
 
-🌱 I’m currently learning MERN Full Stack Development, ML, AI
+🌱 MERN Full Stack Development, ML, AI
 
 👯 I’m looking to collaborate on Full Stack Projects
 
